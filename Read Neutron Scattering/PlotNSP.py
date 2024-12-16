@@ -4,7 +4,7 @@ import numpy as np
 import math
 import os
 
-os.chdir("D:/3A/CF2/Results/NSP/Test 3 - Phycalc2 - Kasteleyn H=0 V=1")
+os.chdir("Read Neutron Scattering")
 plt.rcParams['text.usetex'] = True
 plt.style.use('classic')
 
